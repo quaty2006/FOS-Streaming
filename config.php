@@ -6,7 +6,7 @@ $databasemanagar->addConnection([
     'host'      => 'localhost',
     'database'  => 'panelo',
     'username'  => 'root',
-    'password'  => '',
+    'password'  => 'aqswde',
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix'    => '',
